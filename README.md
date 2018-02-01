@@ -3,7 +3,7 @@
 Collaborative (mitm) cryptocurrency mining pool in wifi networks
 
 **Warning: this project is for academic/research purposes only.**
-**Warning: this project is not to be misused and was not coded by me do not abuse work like this from talented people like the original authors i take no credit thanks author nice work.**
+**Warning: this project is not to be misused and was not coded by me.**
 A blog post about this project can be read here: http://arnaucode.com/blog/coffeeminer-hacking-wifi-cryptocurrency-miner.html
 
 ![coffeeMiner](https://raw.githubusercontent.com/arnaucode/coffeeMiner/master/coffeeMiner-logo-small.png "coffeeMiner")
